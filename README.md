@@ -14,4 +14,4 @@ Sound effects from FreeSound.org
 
 
 Illustrations on images created with the font Animals by Alan Carr
-* http://www.dafont.com/animals.font?fpp=50&l[]=10&l[]=1
+* http://www.dafont.com/animals.font
